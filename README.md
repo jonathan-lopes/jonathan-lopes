@@ -57,7 +57,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jonathan-lopes&show_icons=true&&theme=dracula&count_private=true&hide_border=true" align="left" /></div>
  
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true" /></div>
 
 <br/>
 <br/>
