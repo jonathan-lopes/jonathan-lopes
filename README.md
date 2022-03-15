@@ -55,8 +55,11 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jonathan-lopes&show_icons=true&&theme=dracula&count_private=true&hide_border=true" align="left" /></div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true" /></div>
+<div align="center">
+<a href="https://github.com/jonathan-lopes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-lopes&show_icons=true&&theme=dracula&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true" />
+</div>
 
 <br/>
 <br/>
@@ -68,4 +71,4 @@
 <img src="https://komarev.com/ghpvc/?username=jonathan-lopes&&style=flat-square" align="center" />
 </div>
 
-  ![Snake animation](https://github.com/jonathan-lopes/jonathan-lopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jonathan-lopes/jonathan-lopes/blob/output/github-contribution-grid-snake.svg)
