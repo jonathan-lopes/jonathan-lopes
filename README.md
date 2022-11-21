@@ -4,7 +4,7 @@
 
 ### <div align="center">Olá sou Jonathan, desenvolvedor full-stack jr 👨‍💻</div>
 
-- 🌱tualmente estou aprendendo TypeScript
+- 🌱Atualmente estou aprendendo TypeScript
 
 <br/>
 
