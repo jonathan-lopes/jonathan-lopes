@@ -4,7 +4,8 @@
 
 ### <div align="center">Olá sou Jonathan, desenvolvedor full-stack jr 👨‍💻</div>
 
-- 🌱Atualmente estou aprendendo TypeScript
+- 🌱Atualmente aprendendo TypeScript
+- ⚡ Fun fact: Meu username é sloth 🦥
 
 <br/>
 
@@ -59,6 +60,7 @@
 <a href="https://github.com/jonathan-lopes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-lopes&show_icons=true&&theme=dracula&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sloth&theme=dracula&layout=compact" />
 </div>
 
 <br/>
