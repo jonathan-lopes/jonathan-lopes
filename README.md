@@ -60,9 +60,13 @@
 <a href="https://github.com/jonathan-lopes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-lopes&show_icons=true&&theme=dracula&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sloth&theme=dracula&layout=compact" />
 </div>
 
+<div align="center">
+<a href="https://wakatime.com/@sloth">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sloth&theme=dracula&layout=compact" />
+</div>
+  
 <br/>
 <br/>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21l2uafypqqfnw5pqpaagvu3y&cover_image=true&theme=default" /></div>
