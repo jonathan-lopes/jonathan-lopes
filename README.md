@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_56b424aebee746c808e70644dad8e78c.gif?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1684212379&Signature=5h%2BWyZndcUsjjxExqw90C%2Bwz4Ls%3D" align="center" style="width: 100%" />
+<img src="./images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">Olá sou Jonathan, desenvolvedor full-stack jr 👨‍💻</div>
