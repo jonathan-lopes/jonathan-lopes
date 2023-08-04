@@ -77,4 +77,4 @@
 <img src="https://komarev.com/ghpvc/?username=jonathan-lopes&&style=flat-square" align="center" />
 </div>
 
-![Snake animation](https://github.com/jonathan-lopes/jonathan-lopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jonathan-lopes/jonathan-lopes/blob/output/github-contribution-grid-snake-dark.svg)
