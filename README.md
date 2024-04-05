@@ -38,8 +38,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -73,7 +71,7 @@
 <div align="center">
 <a href="https://github.com/jonathan-lopes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathan-lopes&show_icons=true&&theme=dracula&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-lopes&hide_border=true&layout=compact&theme=dracula&count_private=true&size_weight=0.5&count_weight=0.5&hide=html,css" />
 </div>
 
 <div align="center">
