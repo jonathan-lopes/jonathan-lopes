@@ -81,7 +81,11 @@
   
 <br/>
 <br/>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21l2uafypqqfnw5pqpaagvu3y&cover_image=true&theme=default" /></div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21l2uafypqqfnw5pqpaagvu3y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21l2uafypqqfnw5pqpaagvu3y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
+  </a>
+</p>
 <br/>
 
 <div align="center">
