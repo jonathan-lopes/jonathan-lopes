@@ -71,8 +71,8 @@
 </div>
 
 <div align="center">
-<a href="https://wakatime.com/@sloth">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sloth&theme=dracula&range=last_7_days&is_including_today=true&layout=compact" />
+<a href="https://wakatime.com/@soteroboy">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=soteroboy&theme=dracula&range=last_7_days&is_including_today=true&layout=compact" />
 </div>
   
 <br/>
